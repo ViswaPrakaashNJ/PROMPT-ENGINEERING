@@ -2,7 +2,7 @@
 Experiment:
 Develop a comprehensive report for the following exercises:
 1.	Explain the foundational concepts of Generative AI. 
-2.	Focusing on Generative AI architectures. (like transformers).
+2.	Focusing on Generative AI architectures. (like transformers). 
 3.	Generative AI applications.
 4.	Generative AI impact of scaling in LLMs.
 
